@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 840 128" width="840" height="128" role="img" aria-label="48 maps, 12 map locations, 9 scripts, 5 bundles">
+  <style>
+    .t { font-family: 'Space Grotesk', Inter, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .card { opacity: 0; animation: rise .9s cubic-bezier(.22,1,.36,1) forwards; }
+    .c2 { animation-delay: .1s; }
+    .c3 { animation-delay: .2s; }
+    .c4 { animation-delay: .3s; }
+    .num { font-size: 40px; font-weight: 700; letter-spacing: -1px; fill: #f5f0e8; }
+    .label { font-size: 11px; font-weight: 600; letter-spacing: 3.5px; fill: #8f8a83; }
+    @keyframes rise { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+  </style>
+  <g class="card">
+    <rect x="0" y="0" width="192" height="128" rx="4" fill="#131417"/>
+    <text class="t num" x="26" y="66">48</text>
+    <rect x="26" y="88" width="3" height="12" fill="#e8ad3c"/>
+    <text class="t label" x="38" y="98">MAPS</text>
+  </g>
+  <g class="card c2">
+    <rect x="216" y="0" width="192" height="128" rx="4" fill="#131417"/>
+    <text class="t num" x="242" y="66">12</text>
+    <rect x="242" y="88" width="3" height="12" fill="#e8ad3c"/>
+    <text class="t label" x="254" y="98">MAP LOCATIONS</text>
+  </g>
+  <g class="card c3">
+    <rect x="432" y="0" width="192" height="128" rx="4" fill="#131417"/>
+    <text class="t num" x="458" y="66">9</text>
+    <rect x="458" y="88" width="3" height="12" fill="#e8ad3c"/>
+    <text class="t label" x="470" y="98">SCRIPTS</text>
+  </g>
+  <g class="card c4">
+    <rect x="648" y="0" width="192" height="128" rx="4" fill="#131417"/>
+    <text class="t num" x="674" y="66">5</text>
+    <rect x="674" y="88" width="3" height="12" fill="#e8ad3c"/>
+    <text class="t label" x="686" y="98">BUNDLES</text>
+  </g>
+</svg>
