@@ -1,4 +1,3 @@
-
 <p>
   <a href="https://hanemods.com"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/header.svg" width="100%" alt="Hane Mod Studio. Premium FiveM MLOs and map collections"></a>
 </p>
@@ -24,4 +23,17 @@
 <p>
   <a href="https://hanemods.com/store"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/store.svg" height="46" alt="Browse store"></a>
   <a href="https://discord.gg/hane"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/discord.svg" height="46" alt="Join Discord"></a>
+</p>
+
+<h3>Links</h3>
+
+<p>
+  <a href="https://hanemods.com/"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/link-store.svg" width="32.5%" alt="Tebex Store: hanemods.com"></a>
+  <a href="https://www.youtube.com/@hanemodstudio"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/link-youtube-maps.svg" width="32.5%" alt="Maps on YouTube: @hanemodstudio"></a>
+  <a href="https://www.youtube.com/@HaneScripts"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/link-youtube-scripts.svg" width="32.5%" alt="Scripts on YouTube: @HaneScripts"></a>
+</p>
+
+<p>
+  <a href="https://hanestudios.net/"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/link-art.svg" width="49%" alt="Art Outsource Services: hanestudios.net"></a>
+  <a href="https://hanetechnology.com/"><img src="https://raw.githubusercontent.com/Hane-Mod-Studio/.github/main/profile/link-tech.svg" width="49%" alt="Technology Services: hanetechnology.com"></a>
 </p>
